@@ -21,6 +21,8 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
   - HTML
 
   - CSS
+ 
+  - LUA Script
 
  ✨ My Oshi :
    
