@@ -24,7 +24,7 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
  
   - LUA Script
 
- ✨ My Oshi :
+  - ✨ My Oshi :
    
   - Mutiara Azzahra  
 
